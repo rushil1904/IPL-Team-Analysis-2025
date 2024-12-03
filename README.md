@@ -60,7 +60,7 @@ The analysis can be run interactively using Google Colab. The notebook includes:
 ### Local Setup
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ipl-analysis.git
+git clone https://github.com/rushil1904/ipl-analysis.git
 cd ipl-analysis
 ```
 
