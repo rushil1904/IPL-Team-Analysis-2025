@@ -129,4 +129,4 @@ Feel free to submit issues and enhancement requests. To contribute:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any queries, please reach out to [rushil1904@gmail.com]
+For any queries, please reach out to rushil1904@gmail.com
