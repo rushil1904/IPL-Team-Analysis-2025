@@ -25,7 +25,7 @@ A comprehensive analysis tool for Indian Premier League (IPL) teams that combine
 - **Excel**: Player categorization and team composition analysis
 
 ## Interactive Analysis
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebook-link)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wSH5QNkWDhvKHOiiFhZbkPSBL2nxgWS9?usp=sharing)
 
 The analysis can be run interactively using Google Colab. The notebook includes:
 - Web scraping from ESPNCricinfo
@@ -39,7 +39,6 @@ The analysis can be run interactively using Google Colab. The notebook includes:
 ```
 📦 ipl-analysis
  ┣ 📂 data
- ┃ ┣ 📜 player_stats_combined.csv
  ┃ ┗ 📜 team_composition.xlsx
  ┣ 📂 notebooks
  ┃ ┗ 📜 IPL_Analysis.ipynb
